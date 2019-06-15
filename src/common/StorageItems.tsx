@@ -1,0 +1,1 @@
+export const LIST_OF_SCORES_KEY = 'list_of_scores_key';
